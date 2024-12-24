@@ -103,15 +103,3 @@ Proficient in building cutting-edge conversational AI systems, including chatbot
 ## Languages
 - **Vietnamese:** Native
 - **English:** Advanced
-
----
-
-## Instructions for Hosting on GitHub
-1. **Create a Repository:**
-   - Log in to GitHub and create a new repository (e.g., `professional-cv`).
-2. **Upload the Markdown File:**
-   - Save this CV as `README.md` and upload it to the repository.
-3. **Enable GitHub Pages:**
-   - Go to the repository settings, scroll to "Pages," and select the branch containing the `README.md` file.
-4. **View Your CV:**
-   - GitHub Pages will generate a public URL where your CV can be viewed.
